@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+
+$color1: #7ec020;
+
+.header {
+  border-top:4px solid $color1;
+  .nav-link {
+    color: $color1
+  }
+}
+a {
+  color: $color1
+}
