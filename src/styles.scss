@@ -3,10 +3,13 @@
 $color1: #7ec020;
 
 .header {
-  border-top:4px solid $color1;
+  border-bottom:4px solid $color1;
   .nav-link {
     color: $color1
   }
+}
+.footer {
+  border-top:1px solid $color1;
 }
 a {
   color: $color1
